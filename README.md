@@ -41,10 +41,9 @@ Tap through the steps to pick lemons, squeeze them, and enjoy a glass of lemonad
 
 ## 🎯 Goal
 
-Your job is to:  
 - Build the app’s **UI layout**.  
 - Implement the **logic** for progressing through all the steps of making lemonade.  
 
 ---
 
-💡 Consider this project as a metaphor… or just a fun way to pass the time! 😄
+💡 This project is as a metaphor… or just a fun way to pass the time! 😄
